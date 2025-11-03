@@ -66,4 +66,17 @@ Assistant: “This document covers AI agent optimization, multi-agent systems, a
 🖼️ Screenshot
 <img width="2420" height="1452" alt="image" src="https://github.com/user-attachments/assets/a4d58ce5-1709-4e72-85a7-b1c191c2b39f" />
 
+🧑‍💻 Author
+
+Farhan M.
+🎓 Data Science | AI/ML Enthusiast | Gen AI
+<p align="center">
+  <a href="https://www.linkedin.com/in/farhan-m03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/FarhanIbrahim03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
