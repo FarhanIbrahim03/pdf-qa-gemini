@@ -47,7 +47,7 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 
 ### 5️⃣ Run the app
 streamlit run app.py
-
+```
 
 
 🧠 How It Works
